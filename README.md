@@ -14,6 +14,10 @@ Mallige is the most complete font in the family, with far more glyphs than the o
 | **License** | [SIL OFL 1.1](OFL.txt) |
 | **Family** | [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) |
 
+## The standard
+
+Mallige is a faithful representation of [the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/) set out in [*Tuḷu Varṇāmr̥ta*](https://tantrytulufonts.github.io/tulu-varnamruta/). The script examples in the book are set in Mallige. Its Unicode counterpart is [Mallige Unicode](https://github.com/TantryTuluFonts/Mallige_unicode).
+
 ## Get the font
 
 Download the latest build from the [Releases page](https://github.com/TantryTuluFonts/mallige/releases/latest), or take `fonts/XmlAlieg(mallige)v1.4.ttf` straight from this repository.
